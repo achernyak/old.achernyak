@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a Prototype Software Engineer at Monsanto. This position entitles me to rapidly design prototypes of software systems while implementing best of breed technologies and processes. Currently we are a very heavy JS shop both on the frontend and backend. On a daily basis I get to work with Angular, React, Node.js, and unfortunately legacy Java (don’t worry you won’t hear anything about this).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I am also involved with the process of transitioning these prototypes to full fledge systems under an on going team. This involves training, introduction to tools, style guide construction, and best practice communication.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+In my free time I have been working hard to learn Haskell and it has become a small passion of mine. I really enjoy the type system design and the language philosophy of composition as a whole. My advancements with Haskell have heavily influenced my style of development across the board.
+
