@@ -9,7 +9,7 @@
 title: Artem's Tech Blog
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  My personal blog covering my advantures in software development.
+  A personal blog covering my advantures in software development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://achernyak.me" # the base hostname & protocol for your site
 twitter_username: achernyak
