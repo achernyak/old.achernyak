@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Prototype Software Engineer at Monsanto. This position entitles me to rapidly design prototypes of software systems while implementing best of breed technologies and processes. Currently we are a very heavy JS shop both on the frontend and backend. On a daily basis I get to work with Angular, React, Node.js, and unfortunately legacy Java (don’t worry you won’t hear anything about this).
+I am a Prototype Software Engineer at Monsanto. This position entitles me to rapidly design full system prototyes, while implementing best of breed technologies and processes. Currently we are a very heavy JS shop both on the frontend and backend. On a daily basis I get to work with Angular, React, Node.js, and unfortunately legacy Java (don’t worry you won’t read anything on this).
 
 I am also involved with the process of transitioning these prototypes to full fledge systems under an on going team. This involves training, introduction to tools, style guide construction, and best practice communication.
 
